@@ -16,4 +16,5 @@ profile
 DerivedData
 .idea/
 # Pods - for those of you who use CocoaPods
-Pods
+.DS_Store
+*.xcodeproj/*
